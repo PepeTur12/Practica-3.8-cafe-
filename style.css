@@ -1,0 +1,56 @@
+body{
+    background-color: peachpuff;
+}
+
+header#title{
+    text-align: center;
+    font-size: 50px;
+    color: darkred;
+    font-weight: bold;
+}
+
+img#imagencarta{
+    width: 400px;
+    height: 400px;
+}
+
+img#imagencafe{
+    width: 300px;
+}
+
+img#imagencontacto{
+    width: 300px;
+}
+
+div#cafe{
+    margin-left: 35%;
+}
+
+div#contacto{
+    margin-left: 70%;
+}
+
+p{
+    color: brown;
+}
+
+pre{
+    color: brown;
+}
+
+span#bold{
+    font-weight: bold;    
+}
+
+img#Facebook{
+    width: 50px;
+    height: 50px;
+}
+
+img#Instagram{
+    width: 50px;
+    height: 50px;
+    position:relative;
+    right: -20px;
+}
+
